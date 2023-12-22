@@ -331,7 +331,7 @@ function generate_map(level_num) {
     let box_x = map[level_num].getElementsByTagName("box")[0].getElementsByTagName("x");
     let box_y = map[level_num].getElementsByTagName("box")[0].getElementsByTagName("y");
     for(let i = 0 ; i < box_x.length; i++){
-        box.push(new img( "", "box","box.JPG"));
+        box.push(new img( "", "box","box.jpg"));
         map_node.appendChild(box[i].node);
         box[i].x = parseInt(box_x[i].firstChild.nodeValue);
         box[i].y = parseInt(box_y[i].firstChild.nodeValue);
@@ -347,7 +347,7 @@ function generate_map(level_num) {
     let target_x = map[level_num].getElementsByTagName("target")[0].getElementsByTagName("x");
     let target_y = map[level_num].getElementsByTagName("target")[0].getElementsByTagName("y");
     for(let i = 0 ; i < target_x.length; i++){
-        target.push(new img( "", "target","target.JPG"));
+        target.push(new img( "", "target","target.jpg"));
         map_node.appendChild(target[i].node);
         target[i].x = parseInt(target_x[i].firstChild.nodeValue);
         target[i].y = parseInt(target_y[i].firstChild.nodeValue);
@@ -486,7 +486,7 @@ function if_win(){
             target[i].node.src = "resources/correct.png";
         }
         else {
-            target[i].node.src = "resources/target.JPG";
+            target[i].node.src = "resources/target.jpg";
         }
     }
     if(cnt === target.length){
