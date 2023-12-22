@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catolog>
+
+<map>
+</map>	
+
+
+<map id="map1">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>9</y>
+		<x>7</x> 	<y>9</y>
+		<x>7</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>1</x> 	<y>1</y>
+		<x>4</x> 	<y>5</y>
+		<x>5</x> 	<y>6</y>
+	</internal_wall>
+
+
+	<box>
+		<x>5</x> 	<y>3</y>
+		<x>4</x> 	<y>7</y>
+	</box>
+
+	<target>
+		<x>6</x> 	<y>3</y>
+		<x>6</x> 	<y>8</y>
+	</target>	
+
+	<man>
+		<x>3</x> 	<y>3</y>
+	</man>	
+</map>
+
+
+<map id="map2">
+	<periphery_wall>
+		<x>1</x> 	<y>4</y>
+		<x>1</x> 	<y>7</y>
+		<x>3</x> 	<y>7</y>
+		<x>3</x> 	<y>8</y>
+		<x>7</x> 	<y>8</y>
+		<x>7</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>4</y>
+		<x>1</x> 	<y>4</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>5</x> 	<y>4</y>
+	</internal_wall>
+
+
+	<box>
+		<x>4</x> 	<y>6</y>
+		<x>5</x> 	<y>6</y>
+	</box>
+
+	<target>
+		<x>3</x> 	<y>5</y>
+		<x>5</x> 	<y>5</y>
+	</target>	
+
+	<man>
+		<x>3</x> 	<y>3</y>
+	</man>	
+</map>
+
+<map id="map3">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>8</y>
+		<x>8</x> 	<y>8</y>
+		<x>8</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>3</x> 	<y>3</y>
+		<x>3</x> 	<y>7</y>
+		<x>7</x> 	<y>7</y>
+		<x>7</x> 	<y>3</y>
+		<x>4</x> 	<y>5</y>
+	</internal_wall>
+
+
+	<box>
+		<x>5</x> 	<y>5</y>
+		<x>5</x> 	<y>6</y>
+		<x>5</x> 	<y>4</y>
+	</box>
+
+	<target>
+		<x>5</x> 	<y>5</y>
+		<x>6</x> 	<y>5</y>
+		<x>7</x> 	<y>5</y>
+	</target>	
+
+	<man>
+		<x>3</x> 	<y>4</y>
+	</man>	
+</map>
+
+
+<map id="map4">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>7</y>
+		<x>3</x> 	<y>7</y>
+		<x>3</x> 	<y>9</y>
+		<x>7</x> 	<y>9</y>
+		<x>7</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>6</x> 	<y>5</y>
+	</internal_wall>
+
+
+	<box>
+		<x>5</x> 	<y>4</y>
+		<x>5</x> 	<y>5</y>
+		<x>5</x> 	<y>6</y>
+	</box>
+
+	<target>
+		<x>4</x> 	<y>6</y>
+		<x>4</x> 	<y>7</y>
+		<x>6</x> 	<y>7</y>
+	</target>	
+
+	<man>
+		<x>5</x> 	<y>7</y>
+	</man>	
+</map>
+
+<map id="map5">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>7</y>
+		<x>3</x> 	<y>7</y>
+		<x>3</x> 	<y>9</y>
+		<x>7</x> 	<y>9</y>
+		<x>7</x> 	<y>7</y>
+		<x>8</x> 	<y>7</y>
+		<x>8</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>4</x> 	<y>5</y>
+		<x>5</x> 	<y>5</y>
+		<x>5</x> 	<y>7</y>
+	</internal_wall>
+
+
+	<box>
+		<x>6</x> 	<y>4</y>
+		<x>6</x> 	<y>7</y>
+		<x>4</x> 	<y>7</y>
+	</box>
+
+	<target>
+		<x>3</x> 	<y>4</y>
+		<x>6</x> 	<y>8</y>
+		<x>6</x> 	<y>4</y>
+	</target>	
+
+	<man>
+		<x>4</x> 	<y>8</y>
+	</man>	
+</map>
+
+<map id="map6">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>7</y>
+		<x>3</x> 	<y>7</y>
+		<x>3</x> 	<y>8</y>
+		<x>6</x> 	<y>8</y>
+		<x>6</x> 	<y>7</y>
+		<x>7</x> 	<y>7</y>
+		<x>7</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>4</x> 	<y>5</y>
+	</internal_wall>
+
+
+	<box>
+		<x>3</x> 	<y>4</y>
+		<x>4</x> 	<y>4</y>
+		<x>5</x> 	<y>4</y>
+	</box>
+
+	<target>
+		<x>3</x> 	<y>4</y>
+		<x>6</x> 	<y>3</y>
+		<x>5</x> 	<y>6</y>
+	</target>	
+
+	<man>
+		<x>3</x> 	<y>3</y>
+	</man>	
+</map>
+
+<map id="map7">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>8</y>
+		<x>3</x> 	<y>8</y>
+		<x>3</x> 	<y>9</y>
+		<x>7</x> 	<y>9</y>
+		<x>7</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>3</x> 	<y>3</y>
+		<x>5</x> 	<y>4</y>
+		<x>6</x> 	<y>6</y>
+	</internal_wall>
+
+
+	<box>
+		<x>5</x> 	<y>6</y>
+		<x>5</x> 	<y>7</y>
+		<x>5</x> 	<y>8</y>
+	</box>
+
+	<target>
+		<x>6</x> 	<y>8</y>
+		<x>4</x> 	<y>4</y>
+		<x>4</x> 	<y>5</y>
+	</target>	
+
+	<man>
+		<x>6</x> 	<y>7</y>
+	</man>	
+</map>
+
+<map id="map8">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>7</y>
+		<x>3</x> 	<y>7</y>
+		<x>3</x> 	<y>8</y>
+		<x>7</x> 	<y>8</y>
+		<x>7</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>5</x> 	<y>6</y>
+	</internal_wall>
+
+
+	<box>
+		<x>4</x> 	<y>3</y>
+		<x>3</x> 	<y>5</y>
+		<x>4</x> 	<y>6</y>
+	</box>
+
+	<target>
+		<x>3</x> 	<y>3</y>
+		<x>3</x> 	<y>5</y>
+		<x>6</x> 	<y>5</y>
+	</target>	
+
+	<man>
+		<x>3</x> 	<y>4</y>
+	</man>	
+</map>
+
+<map id="map9">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>7</y>
+		<x>4</x> 	<y>7</y>
+		<x>4</x> 	<y>8</y>
+		<x>8</x> 	<y>8</y>
+		<x>8</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>4</x> 	<y>4</y>
+		<x>5</x> 	<y>4</y>
+		<x>6</x> 	<y>6</y>
+	</internal_wall>
+
+
+	<box>
+		<x>4</x> 	<y>5</y>
+		<x>6</x> 	<y>5</y>
+		<x>7</x> 	<y>5</y>
+	</box>
+
+	<target>
+		<x>3</x> 	<y>5</y>
+		<x>3</x> 	<y>6</y>
+		<x>7</x> 	<y>5</y>
+	</target>	
+
+	<man>
+		<x>3</x> 	<y>3</y>
+	</man>	
+</map>
+
+
+<map id="map10">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>6</y>
+		<x>4</x> 	<y>6</y>
+		<x>4</x> 	<y>8</y>
+		<x>8</x> 	<y>8</y>
+		<x>8</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>4</x> 	<y>4</y>
+		<x>6</x> 	<y>5</y>
+	</internal_wall>
+
+
+	<box>
+		<x>5</x> 	<y>3</y>
+		<x>5</x> 	<y>5</y>
+		<x>6</x> 	<y>6</y>
+	</box>
+
+	<target>
+		<x>5</x> 	<y>3</y>
+		<x>5</x> 	<y>4</y>
+		<x>7</x> 	<y>7</y>
+	</target>	
+
+	<man>
+		<x>7</x> 	<y>3</y>
+	</man>	
+</map>
+
+<map id="map11">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>8</y>
+		<x>7</x> 	<y>8</y>
+		<x>7</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>3</x> 	<y>3</y>
+		<x>3</x> 	<y>4</y>
+		<x>4</x> 	<y>6</y>
+		<x>6</x> 	<y>7</y>
+	</internal_wall>
+
+
+	<box>
+		<x>4</x> 	<y>5</y>
+		<x>5</x> 	<y>6</y>
+		<x>6</x> 	<y>4</y>
+	</box>
+
+	<target>
+		<x>4</x> 	<y>5</y>
+		<x>4</x> 	<y>3</y>
+		<x>6</x> 	<y>5</y>
+	</target>	
+
+	<man>
+		<x>3</x> 	<y>7</y>
+	</man>	
+</map>
+
+<map id="map12">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>8</y>
+		<x>3</x> 	<y>8</y>
+		<x>3</x> 	<y>9</y>
+		<x>4</x> 	<y>9</y>
+		<x>4</x> 	<y>10</y>
+		<x>7</x> 	<y>10</y>
+		<x>7</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>5</x> 	<y>4</y>
+	</internal_wall>
+
+
+	<box>
+		<x>4</x> 	<y>5</y>
+		<x>4</x> 	<y>6</y>
+		<x>5</x> 	<y>5</y>
+	</box>
+
+	<target>
+		<x>4</x> 	<y>4</y>
+		<x>4</x> 	<y>6</y>
+		<x>5</x> 	<y>6</y>
+	</target>	
+
+	<man>
+		<x>3</x> 	<y>3</y>
+	</man>	
+</map>
+
+<map id="map13">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>7</y>
+		<x>4</x> 	<y>7</y>
+		<x>4</x> 	<y>8</y>
+		<x>8</x> 	<y>8</y>
+		<x>8</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>4</x> 	<y>4</y>
+		<x>7</x> 	<y>5</y>
+	</internal_wall>
+
+
+	<box>
+		<x>6</x> 	<y>4</y>
+		<x>6</x> 	<y>5</y>
+		<x>6</x> 	<y>6</y>
+	</box>
+
+	<target>
+		<x>3</x> 	<y>5</y>
+		<x>4</x> 	<y>5</y>
+		<x>5</x> 	<y>5</y>
+	</target>	
+
+	<man>
+		<x>7</x> 	<y>7</y>
+	</man>	
+</map>
+
+<map id="map14">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>5</y>
+		<x>3</x> 	<y>5</y>
+		<x>3</x> 	<y>8</y>
+		<x>7</x> 	<y>8</y>
+		<x>7</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>5</x> 	<y>6</y>
+	</internal_wall>
+
+
+	<box>
+		<x>4</x> 	<y>6</y>
+		<x>5</x> 	<y>5</y>
+		<x>6</x> 	<y>6</y>
+	</box>
+
+	<target>
+		<x>4</x> 	<y>6</y>
+		<x>6</x> 	<y>5</y>
+		<x>4</x> 	<y>7</y>
+	</target>	
+
+	<man>
+		<x>6</x> 	<y>7</y>
+	</man>	
+</map>
+
+<map id="map15">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>8</y>
+		<x>3</x> 	<y>8</y>
+		<x>3</x> 	<y>9</y>
+		<x>7</x> 	<y>9</y>
+		<x>7</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>5</x> 	<y>4</y>
+		<x>4</x> 	<y>6</y>
+		<x>6</x> 	<y>6</y>
+	</internal_wall>
+
+
+	<box>
+		<x>4</x> 	<y>4</y>
+		<x>4</x> 	<y>5</y>
+		<x>5</x> 	<y>6</y>
+	</box>
+
+	<target>
+		<x>3</x> 	<y>5</y>
+		<x>4</x> 	<y>7</y>
+		<x>6</x> 	<y>5</y>
+	</target>	
+
+	<man>
+		<x>5</x> 	<y>5</y>
+	</man>	
+</map>
+
+<map id="map16">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>7</y>
+		<x>3</x> 	<y>7</y>
+		<x>3</x> 	<y>8</y>
+		<x>8</x> 	<y>8</y>
+		<x>8</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>5</x> 	<y>3</y>
+		<x>6</x> 	<y>6</y>
+	</internal_wall>
+
+
+	<box>
+		<x>4</x> 	<y>4</y>
+		<x>4</x> 	<y>5</y>
+		<x>4</x> 	<y>6</y>
+	</box>
+
+	<target>
+		<x>5</x> 	<y>5</y>
+		<x>5</x> 	<y>6</y>
+		<x>5</x> 	<y>7</y>
+	</target>	
+
+	<man>
+		<x>3</x> 	<y>3</y>
+	</man>	
+</map>
+
+<map id="map17">
+	<periphery_wall>
+		<x>1</x> 	<y>2</y>
+		<x>1</x> 	<y>5</y>
+		<x>3</x> 	<y>5</y>
+		<x>3</x> 	<y>6</y>
+		<x>4</x> 	<y>6</y>
+		<x>4</x> 	<y>7</y>
+		<x>5</x> 	<y>7</y>
+		<x>5</x> 	<y>8</y>
+		<x>8</x> 	<y>8</y>
+		<x>8</x> 	<y>2</y>
+		<x>1</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>6</x> 	<y>5</y>
+	</internal_wall>
+
+
+	<box>
+		<x>5</x> 	<y>5</y>
+		<x>6</x> 	<y>6</y>
+		<x>5</x> 	<y>3</y>
+	</box>
+
+	<target>
+		<x>6</x> 	<y>3</y>
+		<x>7</x> 	<y>5</y>
+		<x>7</x> 	<y>7</y>
+	</target>	
+
+	<man>
+		<x>5</x> 	<y>6</y>
+	</man>	
+</map>
+
+
+<map id="map18">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>7</y>
+		<x>7</x> 	<y>7</y>
+		<x>7</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>5</x> 	<y>5</y>
+	</internal_wall>
+
+
+	<box>
+		<x>4</x> 	<y>3</y>
+		<x>4</x> 	<y>4</y>
+		<x>4</x> 	<y>5</y>
+	</box>
+
+	<target>
+		<x>5</x> 	<y>3</y>
+		<x>3</x> 	<y>6</y>
+		<x>6</x> 	<y>5</y>
+	</target>	
+
+	<man>
+		<x>4</x> 	<y>6</y>
+	</man>	
+</map>
+
+
+<map id="map19">
+	<periphery_wall>
+		<x>2</x> 	<y>2</y>
+		<x>2</x> 	<y>8</y>
+		<x>3</x> 	<y>8</y>
+		<x>3</x> 	<y>9</y>
+		<x>7</x> 	<y>9</y>
+		<x>7</x> 	<y>2</y>
+		<x>2</x> 	<y>2</y>
+	</periphery_wall>
+	<internal_wall>
+		<x>4</x> 	<y>4</y>
+		<x>4</x> 	<y>6</y>
+		<x>6</x> 	<y>6</y>
+	</internal_wall>
+
+
+	<box>
+		<x>5</x> 	<y>5</y>
+		<x>5</x> 	<y>6</y>
+		<x>4</x> 	<y>7</y>
+	</box>
+
+	<target>
+		<x>5</x> 	<y>3</y>
+		<x>5</x> 	<y>6</y>
+		<x>6</x> 	<y>8</y>
+	</target>	
+
+	<man>
+		<x>3</x> 	<y>6</y>
+	</man>	
+</map>
+
+</catolog>

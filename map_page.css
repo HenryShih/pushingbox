@@ -1,0 +1,121 @@
+@charset "UTF-8";
+
+
+div#content_container div.block {
+    box-sizing: border-box;
+    border: 0 ;
+    float: left;
+    width: 50px;
+    height: 50px;
+}
+
+div#content_container div.block:nth-of-type(10n+1){
+    clear: both;
+}
+
+div#content_container div.grass{
+    border: 0px;
+}
+
+div#content_container div.road{
+    border: 0px solid black;
+}
+
+div#content_container div.wall{
+    border: 1px solid black;
+}
+
+
+
+img.picture{
+    box-sizing: border-box;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    border: 0;
+}
+
+img.box{
+    z-index: 1;
+    border: 0;
+}
+
+img.target{
+    position: absolute;
+    z-index: 2;
+}
+
+img#man{
+    z-index: 3;
+}
+
+
+button#level{
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    left: 200px;
+    top: 20px;
+}
+
+button#reset{
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    left: 350px;
+    top: 20px;
+
+}
+
+div#counter{
+    font-size: large;
+    text-align: center;
+    background-color: rgb(239, 239, 239);
+    position: absolute;
+    left: 50px;
+    top: 20px;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    border: 2px solid black;
+    border-radius: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+div#win{
+    position: absolute;
+    left: 50px;
+    top: -50px;
+    z-index: 5;
+    width:400px;
+    height: 530px;
+    border: 5px solid black;
+    border-radius: 5px;
+    background-color: papayawhip;
+
+}
+
+button#next{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 275px;
+    top: 450px;
+}
+button#again{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 150px;
+    top: 450px;
+}
+button#home{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 25px;
+    top: 450px;
+}

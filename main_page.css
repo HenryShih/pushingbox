@@ -1,0 +1,117 @@
+@charset "UTF-8";
+
+
+
+
+
+button#log_in{
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    left: 175px;
+    top: 100px;
+}
+
+button#rank{
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    left: 175px;
+    top: 200px;
+}
+
+button#back{
+    box-sizing: content-box;
+    padding: 0;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    left: 100px;
+    top: 250px;
+    background-image: url("resources/box.jpg");
+    background-size: 50px;
+
+}
+
+button#enter{
+    box-sizing: content-box;
+    padding: 0;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    left: 300px;
+    top: 250px;
+    background-image: url("resources/box.jpg");
+    background-size: 50px;
+
+}
+
+
+
+button#log_out{
+    position: absolute;
+    left: 190px;
+    top: 20px;
+    display: block;
+    box-sizing: border-box;
+    width: 120px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 2px;
+}
+
+button.level_btn{
+    font-size: large;
+    box-sizing: border-box;
+    width: 90px;
+    height: 45px;
+    margin: 10px 5px;
+    background-size: 45px;
+}
+
+button.level_btn:nth-of-type(2n){
+    background-image: url("resources/box.jpg");
+}
+
+button.level_btn:nth-of-type(2n-1){
+    background-image: url("resources/box.jpg");
+}
+
+
+div#how{
+    position: absolute;
+    left: 50px;
+    top: -50px;
+    z-index: 5;
+    width:400px;
+    height: 530px;
+    border: 5px solid black;
+    border-radius: 5px;
+    background-color: papayawhip;
+}
+
+div#how_title{
+    position:absolute;
+    top: 100px;
+    left: 100px;
+    width: 200px;
+    font-size: xx-large;
+    text-align: center;
+}
+
+p#how_text{
+    position:absolute;
+    top: 150px;
+    left: 50px;
+    width: 300px;
+    font-size: x-large;
+
+}
+
+button#continue{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 150px;
+    top: 450px;
+}
